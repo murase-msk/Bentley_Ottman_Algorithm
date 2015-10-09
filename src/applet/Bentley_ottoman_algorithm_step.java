@@ -10,7 +10,7 @@ import java.util.List;
 
 import javax.naming.InitialContext;
 
-import sample.QuickSort3;
+import lib.QuickSort3;
 
 
 /**

@@ -9,6 +9,8 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.List;
 
+import lib.QuickSort3;
+
 /**
  * bentley-ottman アルゴリズム
  * http://geomalgorithms.com/a09-_intersect-3.html
